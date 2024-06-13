@@ -1,0 +1,6 @@
+package myutil
+
+func myutill(){
+
+	
+}
